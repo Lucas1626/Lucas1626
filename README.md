@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Lucas1626
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Lucas1626/Lucas1626 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* 👋 Selamlar Ben Metin
+* 👀 Yaklaşık 1 Yıldır Javascript Çalışıyorum..
+* 🌱 Öğreniyorum,Yapıyorum,Başarıyorum..
+* 💞️ Takip Ederseniz Çok Mutlu Olurum..
